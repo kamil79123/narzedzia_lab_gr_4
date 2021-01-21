@@ -4,10 +4,9 @@
 #include "XD.h"
 
 
-int main()   //jest git 
-{
+int main()   
+{//jest git 
 hello();
 jednostki();
 summation();
 }
-
