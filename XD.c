@@ -1,4 +1,4 @@
-int summation()
+void summation()
 {
 int n, liczba;
 int suma = 0;
@@ -12,6 +12,5 @@ scanf("%d", &liczba);
 suma+=liczba;
 }
 printf("Suma to: %d", suma);
-return suma;
 }
 
