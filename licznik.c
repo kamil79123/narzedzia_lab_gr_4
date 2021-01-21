@@ -1,4 +1,4 @@
-void liczenie()
+void licz()
 {
 	int a;
 	printf("Podaj liczbe: ");
