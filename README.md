@@ -1,7 +1,4 @@
-Dzien dobry
-xd
+Program został napisany w języku C.
+Każdy z uczestników stworzył swoją funkcję w osobnym pliku źródłowym.
 
 
-hehexd
-
-tu jest blad
