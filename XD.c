@@ -14,4 +14,4 @@ suma+=liczba;
 printf("Suma to: %d", suma);
 return suma;
 }
-EDIT BY KAMIL
+
