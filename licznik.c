@@ -2,7 +2,10 @@
 #include <stdlib.h>
 
 
-int main()
+void liczenie()
 {
-	printf("o");
+	int a;
+	printf("Podaj liczbe: ");
+	scanf("%i", &a);
+	printf("Liczba: %i", a);
 }
