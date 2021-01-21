@@ -3,9 +3,8 @@
 #include "plik.h"
 #include "XD.h"
 
-
-int main()   
-{//jest git 
+int main()
+{//xddddd
 hello();
 jednostki();
 summation();
