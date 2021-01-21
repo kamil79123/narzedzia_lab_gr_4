@@ -10,4 +10,4 @@ hello();
 jednostki();
 summation();
 }
-
+// Ladna pogoda dzisiaj
