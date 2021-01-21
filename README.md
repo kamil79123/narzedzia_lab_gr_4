@@ -3,3 +3,5 @@ xd
 
 
 hehexd
+
+tu jest blad
