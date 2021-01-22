@@ -19,7 +19,7 @@ void jednostki()
     break;
     case 2:
     {
-        printf("Wprowadz dlugosc w mm.");
+        printf("Wprowadz dlugosc w mm...");
         scanf("%f", dlugosc);
         wynik = dlugosc * 100;
         printf("%f milimetrow to %f metrow.", dlugosc, wynik);
