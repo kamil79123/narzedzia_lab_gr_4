@@ -1,5 +1,5 @@
 void hello() {
-   printf("Hello, World!");
+   printf("Hello, World!\n");
    printf("Ile masz lat?");
    int wiek;
    scanf("%d", &wiek);
